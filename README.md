@@ -25,12 +25,12 @@ Idea by TFM. Design and realization by LambdaMikel, June 2023.
 
 ## Application Examples 
 
-![MegaLambda 1](images/megalambda-1.JPG)  
-![MegaLambda 2](images/megalambda-2.JPG)  
-![MegaLambda 3](images/megalambda-3.JPG)  
-![MegaLambda 4](images/megalambda-4.JPG)  
-![MegaLambda 5](images/megalambda-5.JPG)  
-![MegaLambda 6](images/megalambda-6.JPG)  
+![MegaLambda 1](images/megalambda-1.jpg)  
+![MegaLambda 2](images/megalambda-2.jpg)  
+![MegaLambda 3](images/megalambda-3.jpg)  
+![MegaLambda 4](images/megalambda-4.jpg)  
+![MegaLambda 5](images/megalambda-5.jpg)  
+![MegaLambda 6](images/megalambda-6.jpg)  
 
 ## Gerbers 
 
