@@ -18,10 +18,23 @@ Key features are:
 9. Double jumpers (for better conductivity) to select between CPC power and external power 
 10. Power LED (only) if external power supply is used - polarity check!
 11. The 5V / VCC line of the CPC expansion port is *physically disconnected* from the backplane if external power is used; only GND is shared with the CPC
+12. CPC Reset button (yawn) 
+
+## Power Configuration
+
+### External Power 
+
+![External Power Supply](images/ext-power.jpg)  
+
+
+### Powered by the CPC 
+
+![CPC Power Supply](images/cpc-power.jpg)  
+
 
 ## Creators 
 
-Idea by [http://futureos.cpc-live.com/](TFM). Design and realization by [https://github.com/lambdamikel](LambdaMikel), June 2023. 
+Idea by [TFM](http://futureos.cpc-live.com/). Design and realization by [LambdaMikel](https://github.com/lambdamikel), June 2023. 
 
 ## Application Examples 
 
