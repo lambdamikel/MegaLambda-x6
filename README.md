@@ -20,14 +20,14 @@ Key features are:
 11. The 5V / VCC line of the CPC expansion port is *physically disconnected* from the backplane if external power is used; only GND is shared with the CPC
 12. CPC Reset button (yawn) 
 
-## Power Configuration
+## Power Configuration via Double Jumper 
 
-### External Power 
+### External Power - Double Jumper to the Right 
 
 ![External Power Supply](images/ext-power.jpg)  
 
 
-### Powered by the CPC 
+### Powered by the CPC - Double Jumper to the Left 
 
 ![CPC Power Supply](images/cpc-power.jpg)  
 
