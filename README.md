@@ -55,6 +55,11 @@ Idea by [TFM](http://futureos.cpc-live.com/). Design and realization by [LambdaM
 ![MegaLambda 7](images/megalambda-h1.jpg)
 ![MegaLambda 8](images/megalambda-h2.jpg)  
 
+### Cable Routing
+
+![Cable Routing](images/cable-routing.jpg)  
+
+
 ## Gerbers 
 
 The Gerbers are [here](gerbers/mega-lambda-3.zip). 
