@@ -31,6 +31,10 @@ Key features are:
 
 ![CPC Power Supply](images/cpc-power.jpg)  
 
+## YouTube Videos
+
+[MegaLambda x6 Introduction](https://youtu.be/dHfIeu6RvlQ).
+[MegaLambda x6 Long Cable Test](https://youtu.be/0CViRorZ7gk).
 
 ## Creators 
 
@@ -43,7 +47,12 @@ Idea by [TFM](http://futureos.cpc-live.com/). Design and realization by [LambdaM
 ![MegaLambda 3](images/megalambda-3.jpg)  
 ![MegaLambda 4](images/megalambda-4.jpg)  
 ![MegaLambda 5](images/megalambda-5.jpg)  
-![MegaLambda 6](images/megalambda-6.jpg)  
+![MegaLambda 6](images/megalambda-6.jpg)
+
+## Application Examples with Long Cable 
+
+![MegaLambda 7](images/megalambda-h1.jpg)
+![MegaLambda 8](images/megalambda-h2.jpg)  
 
 ## Gerbers 
 
