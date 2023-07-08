@@ -33,8 +33,9 @@ Key features are:
 
 ## YouTube Videos
 
-[MegaLambda x6 Introduction](https://youtu.be/dHfIeu6RvlQ).
-[MegaLambda x6 Long Cable Test](https://youtu.be/0CViRorZ7gk).
+[MegaLambda x6 Introduction](https://youtu.be/dHfIeu6RvlQ)
+
+[MegaLambda x6 Long Cable Test](https://youtu.be/0CViRorZ7gk)
 
 ## Creators 
 
