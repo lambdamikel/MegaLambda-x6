@@ -37,6 +37,8 @@ Key features are:
 
 [MegaLambda x6 Long Cable Test](https://youtu.be/0CViRorZ7gk)
 
+[MegaLambda x6 CPC 6128 Test](https://youtu.be/cwNZN3z0Z7E)
+
 ## Creators 
 
 Idea by [TFM](http://futureos.cpc-live.com/). Design and realization by [LambdaMikel](https://github.com/lambdamikel), June 2023. 
