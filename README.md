@@ -38,8 +38,8 @@ dim the LED so it's not too bright (can become annoying otherwise).
 
 I recommend soldering in the LED as the last step. Hook up the power
 supply and find the right orientation / polarity for the LED before
-soldering it in (like I say, I might have gotten the polarity of the
-footprint wrong on the PCB, so don't rely on it, double check it).
+soldering it in (don't rely on the footprint on the PCB, double check
+it).
 
 ![External Power Supply](images/ext-power.jpg)  
 
