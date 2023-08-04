@@ -26,11 +26,24 @@ Additional features of the **x6++** version:
 
 ## Power Configuration via Double Jumper 
 
-### External Power - Double Jumper to the Right 
+### External Power & Power LED - Double Jumper to the Right 
+
+Note that the LED will light up only when the external PSU is
+connected.  **Also, double check the polarity of the LED footprint on
+the board - I might have gotten it wrong!** In any case, the PSU
+polarity is *CENTER POSITIVE*, and 5V stabilized. A 10 USD 5V wall
+wart from Amazon will do. Center positive is the default nowadays.
+Usually, 1 to 1.5 Amps are perfect. I am using a 10kOhm resistor to
+dim the LED so it's not too bright (can become annoying otherwise).
+
+I recommend soldering in the LED as the last step. Hook up the power
+supply and find the right orientation / polarity for the LED before
+soldering it in (like I say, I might have gotten the polarity of the
+footprint wrong on the PCB, so don't rely on it, double check it).
 
 ![External Power Supply](images/ext-power.jpg)  
 
-### Powered by the CPC - Double Jumper to the Left 
+### Powered by the CPC - Double Jumper to the Left
 
 ![CPC Power Supply](images/cpc-power.jpg)  
 
