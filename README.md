@@ -1,10 +1,10 @@
 # MegaLambda-x6(++) 
 
-*MegaLambda x6(++) * - The Ultimate Backplane for the Amstrad CPC! 
+**MegaLambda x6 / *MegaLambda x6++** - The Ultimate Backplane for the Amstrad CPC! 
 
 ## Purpose
 
-Add *six* (!) MX4-compatible expansion card slots to your Amstrad / Schneider CPC, without loosing the edge connector - moreover, the *x6++ version* allows you turn turn on and off IO expansion cards individually! 
+Add **six** (!) MX4-compatible expansion card slots to your Amstrad / Schneider CPC, without loosing the edge connector - moreover, the **x6++ version** allows you turn turn on and off IO expansion cards individually! 
 
 Key features are:
 
@@ -20,7 +20,7 @@ Key features are:
 11. The 5V / VCC line of the CPC expansion port is *physically disconnected* from the backplane if external power is used; only GND is shared with the CPC
 12. CPC Reset button (yawn)
 
-Additional features of the *x6++* version:
+Additional features of the **x6++** version:
 
 13. Each slot can be en-/disabled for IO Requests. Six little microswitches or jumpers can be used for this purpose. If disabled, the IOREQ line will be connected to 5V / VCC, herby disabling IO requests. If enabled, the IOREQ line will be connected to the CPC's IOREQ signal for normal operation. This is very useful in case cards share IO address ranges. Note that memory (RAM) expansions cannot be disabled like this. 
 
@@ -44,7 +44,7 @@ wires. It tested that both methods work with a large variety of
 expansion cards (FlashGordon remake by PulkoMandy, XMem by ToTO,
 LambdaSpeak, Ultimate MIDI Card, Speak&SID). 
 
-![IOREQ Switches Pic 3 - MegaLambda x6++](images/x6++-3.jpg)  
+![IOREQ Switches Pic 3 - MegaLambda x6++](images/x6++-4.jpg)  
 
 
 ## YouTube Videos
@@ -93,8 +93,8 @@ Idea by [TFM](http://futureos.cpc-live.com/). Design and realization by [LambdaM
 
 ## Gerbers 
 
-The *MegaLambda x6* Gerbers are [here](gerbers/mega-lambda-x6.zip).
+The **MegaLambda x6** Gerbers are [here](gerbers/mega-lambda-x6.zip).
 
-The *MegaLambda x6++* Gerbers are [here](gerbers/mega-lambda-x6++.zip).
+The **MegaLambda x6++** Gerbers are [here](gerbers/mega-lambda-x6++.zip).
 
 
