@@ -11,18 +11,18 @@ Key features are:
 1. Six standard MX4 expansion slots
 2. Passthrough edge connector (like LambdaBoard I, II) 
 3. Passthrough pin header connector (like MotherX4) 
-5. Keyhole in edge connector for hardware that requires it (e.g., DKTronics Retro Speech Synthesizer, ...)
-6. Wide signal traces for good signal conductivity
-7. Extra wide traces for GND and VCC - unlike other backplane expanders for the CPC, MegaLambda is capable of powering the DDI-1 and DDI-3 without requiring an extra power supply 
-8. Backplane powered from either the CPC or an external 5V power supply via standard barell jack (center polarity positive)
-9. Double jumpers (for better conductivity) to select between CPC power and external power 
-10. Power LED (only) if external power supply is used - polarity check!
-11. The 5V / VCC line of the CPC expansion port is *physically disconnected* from the backplane if external power is used; only GND is shared with the CPC
-12. CPC Reset button (yawn)
+4. Keyhole in edge connector for hardware that requires it (e.g., DKTronics Retro Speech Synthesizer, ...)
+5. Wide signal traces for good signal conductivity
+6. Extra wide traces for GND and VCC - unlike other backplane expanders for the CPC, MegaLambda is capable of powering the DDI-1 and DDI-3 without requiring an extra power supply 
+7. Backplane powered from either the CPC or an external 5V power supply via standard barell jack (center polarity positive)
+8. Double jumpers (for better conductivity) to select between CPC power and external power 
+9. Power LED (only) if external power supply is used - polarity check!
+10. The 5V / VCC line of the CPC expansion port is *physically disconnected* from the backplane if external power is used; only GND is shared with the CPC
+11. CPC Reset button (yawn)
 
 Additional features of the **x6++** version:
 
-13. Each slot can be en-/disabled for IO Requests. Six little microswitches or jumpers can be used for this purpose. If disabled, the IOREQ line will be connected to 5V / VCC, herby disabling IO requests. If enabled, the IOREQ line will be connected to the CPC's IOREQ signal for normal operation. This is very useful in case cards share IO address ranges. Note that memory (RAM) expansions cannot be disabled like this. 
+12. Each slot can be en-/disabled for IO Requests. Six little microswitches or jumpers can be used for this purpose. If disabled, the IOREQ line will be connected to 5V / VCC, herby disabling IO requests. If enabled, the IOREQ line will be connected to the CPC's IOREQ signal for normal operation. This is very useful in case cards share IO address ranges. Note that memory (RAM) expansions cannot be disabled like this. 
 
 ## Power Configuration via Double Jumper 
 
