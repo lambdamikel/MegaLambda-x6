@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Add **six** (!) MX4-compatible expansion card slots to your Amstrad / Schneider CPC, without loosing the edge connector - moreover, the **x6++ version** allows you turn turn on and off IO expansion cards individually! 
+Add **six** (!) MX4-compatible expansion card slots to your Amstrad / Schneider CPC, without loosing the edge connector - moreover, the **x6++ version** allows you to dis- and enable individual IO expansion cards one by one. 
 
 Key features are:
 
