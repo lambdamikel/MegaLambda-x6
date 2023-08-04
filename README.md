@@ -1,6 +1,6 @@
 # MegaLambda-x6(++) 
 
-**MegaLambda x6 / *MegaLambda x6++** - The Ultimate Backplane for the Amstrad CPC! 
+**MegaLambda x6**, **MegaLambda x6++** - The Ultimate Backplane for the Amstrad CPC! 
 
 ## Purpose
 
@@ -42,7 +42,7 @@ Depending on the expansion cards you would like to disable, the board
 either requires (e.g., 104 = 100 nF) capactitors, or just solid bridge
 wires. It tested that both methods work with a large variety of
 expansion cards (FlashGordon remake by PulkoMandy, XMem by ToTO,
-LambdaSpeak, Ultimate MIDI Card, Speak&SID). 
+LambdaSpeak, Ultimate MIDI Card, Speak&SID by myself). 
 
 ![IOREQ Switches Pic 3 - MegaLambda x6++](images/x6++-4.jpg)  
 
