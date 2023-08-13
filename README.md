@@ -76,6 +76,9 @@ LambdaSpeak, Ultimate MIDI Card, Speak&SID by myself).
 
 [MegaLambda x6++ - Long Cable with CPC 6128 Test](https://youtu.be/EiqiXnbGWaY)
 
+[MegaLambda x6++ - Demo of both expansion port passthroughs, powering the RomboRedux ROM board and the DDI-1 disk controller from the CPC / CTM monitor, no external PSU](https://youtu.be/Axkk4swBJa4) 
+
+
 ## Creators 
 
 Idea by [TFM](http://futureos.cpc-live.com/). Design and realization by [LambdaMikel](https://github.com/lambdamikel), June 2023. 
